@@ -4,8 +4,6 @@
 
 基于[OFFODD的 Initial](https://www.offodd.com/17.html)二次开发
 
-主题预览：[https://blog.ronpy.com](https://blog.ronpy.com)
-
 ## 功能与特点
 
 #### --原主题--
